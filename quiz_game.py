@@ -5,4 +5,4 @@ playing = input("Do you want to play a game? ")
 if playing != 'yes':
     quit()
 
-print("Fantastic! Let's continue...")
+print("Fantastic! Let's continue!")
